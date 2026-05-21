@@ -1,0 +1,2 @@
+# Smart-Solar-Energy-Forecasting-Using-Stacking-and-Voting-Regression-Techniques
+Smart Solar Energy Forecasting is a machine learning project that predicts solar power generation using weather and environmental data. It uses Stacking and Voting Regression techniques to improve prediction accuracy. The system helps optimize energy management, reduce wastage, and support efficient use of renewable solar energy.
